@@ -7,7 +7,7 @@ Created on Mon Jun 24 11:28:29 2019
 import numpy as np
 import pandas as pd
 
-#master
+# change things on ration
 
 def pie_list(table,labels, labels_ID, values, i_rng, ptype):
     
